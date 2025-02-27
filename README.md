@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah
 =============================================================================================================================
 
-Systems developer and Information Systems student.
+Systems Developer | Information Systems Student
 -----------------
 
-I've been learning programming for a year and a half, I've really enjoyed it at the moment, I'm taking a technical course, but I intend to study higher education. My favorite programming language at the moment is javascript. I'm a calm person, I really like reading and learning new things and I'm developing a little more every day.
+I've been learning programming for a year and a half, and I've really been enjoying it. At the moment, I'm taking a technical course and am in my last semester. I’m also studying Information Systems in college. My favorite programming language right now is JavaScript. I'm a calm person who enjoys reading and learning new things, and I strive to improve a little more every day.
 
 * 🌍  I'm based in Feira de Santana - BA - Brasil
 * ✉️  You can contact me at [sarah.s.lima973@gmail.com](mailto:sarah.s.lima973@gmail.com)
-* 🧠  I'm learning javascript, html e css, php, flutter, dart +
+* 🧠  I'm learning react, react native, python backend +
 
 ### Skills
 
