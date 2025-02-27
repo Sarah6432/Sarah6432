@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah
 =============================================================================================================================
 
-Systems developer
+Systems developer and Information Systems student.
 -----------------
 
 I've been learning programming for a year and a half, I've really enjoyed it at the moment, I'm taking a technical course, but I intend to study higher education. My favorite programming language at the moment is javascript. I'm a calm person, I really like reading and learning new things and I'm developing a little more every day.
